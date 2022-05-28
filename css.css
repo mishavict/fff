@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  background-image: url("images/bg.gif");
+  background-repeat: repeat;
+}
+
+body, *, a, a:hover { cursor:url("images/cursor.gif"), auto; }
+
+#wrapper{
+	width:900px;
+	margin:0 auto;
+	font-family: courier-std,monospace;
+font-weight: 700;
+font-style: normal;
+color:white;
+}
